@@ -15,7 +15,7 @@ Este repositório contém o código-fonte de um portfólio pessoal desenvolvido 
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final em funcionamento](https://portfolio-7ay03c4p4-diogo-malostis-projects.vercel.app/index.html).
+[Veja o projeto final em funcionamento](https://portfolio-web-six-lime.vercel.app/).
 
 ## Feito por:
 
